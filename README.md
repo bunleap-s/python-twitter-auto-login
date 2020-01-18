@@ -35,6 +35,10 @@ browser = webdriver.Chrome()
 Change `Chrome()`to browser you prefer.
 We do this to check if the driver is working or not.
 
+Firefox `webdriver.Firefox()`
+Safari `webdriver.Safari()`
+Edge `webdriver.Edge()`
+
 ### Changing Email & Password
 After everything work just edit this two line and start the app again using `python apps.py`
 ```python
