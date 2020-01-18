@@ -15,10 +15,8 @@ pip install selenium
 ```
 
 ### Install WebBrowser Drivers
-A lot of developers are using different kinds of browsers. 
-Download the browser driver.
+A lot of developers are using different kinds of browsers. Download the browser driver.
 [Chrome](https://www.google.com) [Firefox](https://www.google.com) [Edge](https://www.google.com) [Safari](https://www.google.com)
-
 After downloading, just extract it and put it this directory.
 ```
 C:\Python27\Scripts
