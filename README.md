@@ -26,6 +26,11 @@ C:\Python27\Scripts
 
 ### Test WebDriver
 In your Console or Terminal, type `python apps.py` to start the browser and perform the action.
+You need to change this line to the browser that you install.
+```python
+browser = webdriver.Chrome()
+```
+Change `Chrome()`to browser you prefer.
 We do this to check if the driver is working or not.
 
 ### Changing Email & Password
