@@ -1,7 +1,7 @@
 # python-twitter-auto-login
 This project used Selenium as function to control the browser and check for HTML name attributes and input in information then login to Twitter automatically.
 
-## This Project is only written for Windows Developer Only
+#### This Project is only written for Windows Developer Only
 
 ## Instructions
 We need to import `selenium` in order to get this to work.
@@ -48,3 +48,6 @@ email.send_keys('example@company.com')
 #Put in Password
 password.send_keys('Pa$$w0rd')
 ```
+
+### Start
+Type `python apps.py` to start the browser and perform the action.
